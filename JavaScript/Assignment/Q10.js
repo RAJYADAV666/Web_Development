@@ -1,0 +1,1 @@
+function defaultMessage(Name ="Guest",Message ="Welcome")
